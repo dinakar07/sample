@@ -62141,7 +62141,7 @@ totara-frontpage-list .banner .imageHolder {
 
 totara-frontpage-list .banner .imageHolder img {
   width: 100%;
-  content: : url("https://mobilelearningtotara.androgogic.com.au/theme/image.php/androtheme_corp/totara_core/1541561238/logo");
+  content:  url("https://mobilelearningtotara.androgogic.com.au/theme/image.php/androtheme_corp/totara_core/1541561238/logo");
   /* content: url("../assets/img/totara/logo_frontpage.png"); */
 }
 
